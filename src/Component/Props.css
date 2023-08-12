@@ -1,0 +1,10 @@
+.mainContainer{
+    display: flex;
+}
+.two img{
+    width: 200px;
+    height: 150px;
+}
+.three img{
+    width: 200px;
+}
